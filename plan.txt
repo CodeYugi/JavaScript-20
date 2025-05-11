@@ -1,0 +1,43 @@
+🧠 Core JavaScript Concepts
+Variables & Data Types – let, const, var; strings, numbers, booleans, null, undefined
+
+Operators – Arithmetic (+, -), Comparison (===, !==), Logical (&&, ||, !)
+
+Control Flow – if/else, switch statements
+
+Loops – for, while, do...while, forEach
+
+Functions – Function declarations, expressions, arrow functions, parameters, return values
+
+Scope & Closures – Understanding variable scope and closures
+
+Arrays – Creation, manipulation, and methods like push, pop, map, filter, reduce
+
+Objects – Object literals, accessing and modifying properties, methods
+
+Error Handling – try/catch, throw statements
+
+ES6+ Features – Destructuring, spread/rest operators, template literals
+DEV Community
+
+🌐 Browser & DOM Interaction
+DOM Manipulation – document.querySelector, getElementById, modifying innerHTML, textContent
+
+Event Handling – addEventListener, event objects, event delegation
+
+Forms & Input – Handling form submissions, input validation
+
+Timers – Using setTimeout and setInterval
+
+Local Storage – Storing and retrieving data using localStorage and sessionStorage
+
+🔄 Asynchronous JavaScript
+Callbacks – Understanding and using callback functions
+
+Promises – Creating and handling promises with .then() and .catch()
+
+Async/Await – Writing asynchronous code using async and await
+
+Fetch API – Making HTTP requests using fetch
+
+JSON – Parsing and stringifying data with JSON.parse() and JSON.stringify()
